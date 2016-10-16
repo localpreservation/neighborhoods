@@ -1,6 +1,7 @@
 ---
+title: "How to Look at Your Neighborhood"
 layout: single
-title: How to Look at Your Neighborhood
+sitemap: false
 permalink: /how-to-look/
 ---
 
