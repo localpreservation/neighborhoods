@@ -4,8 +4,6 @@ layout: single
 permalink: /about/
 ---
 
-{% include toc icon="columns" title="About" %}
-
 This document is the text from [How to Look at Your Neighborhood: A Guide for Community Organizations](http://www.preservationalliance.com/files/HowToLook_Final2011.pdf) (2011) by the Preservation Alliance for Greater Philadelphia. The Preservation Alliance has granted the Local Preservation School permission to republish and modify this document using a [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
 _A Guide for Community Organizations and the Vital Neighborhoods Initiative_
