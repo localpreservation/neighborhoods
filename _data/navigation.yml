@@ -1,7 +1,28 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "About"
+    url: /about/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+guides:
+  - title: "Boundaries and context"
+    url: /guides/neighborhood-boundaries/
+  - title: "Land use"
+    url: /guides/land-use/
+  - title: "Neighborhood history and conditions"
+    url: /guides/history-conditions/
+  - title: "Residential and commercial areas"
+    url: /guides/residential-commercial/
+  - title: "Historic buildings and districts"
+    url: /guides/historic-buildings/
+
+activities:
+  - title: "Boundaries and context"
+    url: /activities/neighborhood-boundaries/
+  - title: "Land use"
+    url: /activities/land-use/
+  - title: "Neighborhood history and conditions"
+    url: /activities/history-conditions/
+  - title: "Residential and commercial area"
+    url: /activities/residential-commercial/
+  - title: "Historic buildings and districts"
+    url: /activities/historic-buildings/
