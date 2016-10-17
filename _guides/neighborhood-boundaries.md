@@ -1,5 +1,10 @@
 ---
 title: "Understanding neighborhood boundaries and context"
+excerpt: "How neighborhood boundaries are defined by physical characters and land use changes."
+header:
+  overlay_image: 14803584772_5f88ebe1a3_o-square.jpg
+  overlay_filter: "0.5"
+  caption: "Germantown Assest Mapping Workshop, Philadelphia, Pennsylvania, 41420. Courtesy [Jeremy Beaudry/Flickr](https://www.flickr.com/photos/jbeau/8848280443/) ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
 ---
 
 ## Boundaries
