@@ -22,22 +22,20 @@ In recent years the Alliance has greatly expanded its programs to preserve the c
 - Technical assistance for preparation of nominations to the Philadelphia Register, for Conservation Districts and historic markers;
 - Technical assistance with specific property issues.
 
-For information about the Alliance’s general programs go to www.preservationalliance.com.
+For information about the Alliance’s general programs go to [www.preservationalliance.com](http://www.preservationalliance.com).
 
-For information about neighborhood preservation programs and resources go to www.preservephiladelphia.org
-
-{% include toc icon="columns" title="Contents" %}
+For information about neighborhood preservation programs and resources go to [www.preservephiladelphia.org](http://www.preservephiladelphia.org)
 
 # Introduction
 
-##Purpose of this guide
+## Purpose of this guide
 
 How to Look at Your Neighborhood is intended to assist residents and neighborhood organizations in analyzing the physical character and strengths of the neighborhood in which they live or which they represent. The guide has three primary objectives, reflecting the mission and programs of the Preservation Alliance.
 
 To assist residents and neighborhood organizations:
 
 1. identifying the distinctive physical characteristics of their neighborhood worthy of preservation, including historic buildings and potential historic or conservation districts that might be appropriate to include in a citywide preservation plan for Philadelphia.
-2, identifying the distinctive physical characteristics and strengths of their neighborhood and define projects for grant applications to the Preservation Alliance or others.
+2. identifying the distinctive physical characteristics and strengths of their neighborhood and define projects for grant applications to the Preservation Alliance or others.
 3. identifying the distinctive physical characteristics of their neighborhood and historic resources that might be appropriate to include in District Plans prepared by the Philadelphia City Planning Commission.
 
 The first objective may result in findings that lead to the nomination of buildings or districts to the Philadelphia Register of Historic Places to ensure that they are protected from demolition or adverse alteration, or to the creation of a conservation district or to the preparation of an application for an historic marker or to undertake other activities that explore and celebrate the history of the neighborhood. The analysis might also encourage residents to participate in workshops provided by the Alliance to learn how to maintain an historic property or to attend the Old House Fair.
