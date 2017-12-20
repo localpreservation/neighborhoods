@@ -3,7 +3,7 @@ title: "Historic Neighborhoods 101"
 excerpt: "Learn how to look at your neighborhood and preserve historic places that matter to your community."
 permalink: /
 header:
-  overlay_image: 14803584772_5f88ebe1a3_o-square.jpg
+  overlay_image: /assets/images/14803584772_5f88ebe1a3_o-square.jpg
   overlay_filter: "0.5"
   caption: "Rowhouse, West Philadelphia, Pennsylvania, 41804. Courtesy [Julia Rowe/Flickr](https://www.flickr.com/photos/juliarowe/14803584772/) ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/))"
   cta_label: "About"

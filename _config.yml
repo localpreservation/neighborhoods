@@ -5,16 +5,21 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+remote_theme             : "mmistakes/minimal-mistakes"
+
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "Historic Neighborhoods 101"
 title_separator          : "-"
 name                     : "Local Preservation School"
 description              : "An open educational resource published by the Local Preservation School."
-url                      : https://localpreservation.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /neighborhoods # the subpath of your site, e.g. "/blog"
+url                      : "https://localpreservation.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/neighborhoods" # the subpath of your site, e.g. "/blog"
 repository               : localpreservation/neighborhoods # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /images/chestnut-hill-philadelphia-pa-16946v.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/assets/images/chestnut-hill-philadelphia-pa-16946v.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -198,7 +203,7 @@ defaults:
       layout: single
       read_time: false
       author_profile: false
-      share: false
+      share: true
       comments: false
       sidebar:
         nav: "guides"
@@ -210,7 +215,7 @@ defaults:
       layout: single
       read_time: false
       author_profile: false
-      share: false
+      share: true
       comments: false
       sidebar:
         nav: "activities"
@@ -229,12 +234,13 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -243,7 +249,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-remote-theme
 
 # Archives
 #  Type
